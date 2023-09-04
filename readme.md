@@ -1,3 +1,7 @@
+# Hoel Wiesner Note:
+
+This is a fork of the [ourcade](https://ourcade.co/) Phaser 3 Typerscript [template](https://github.com/ourcade/phaser3-typescript-vite-template/tree/master) and tutorial, completed in Summer 2023.
+
 # Phaser 3 + TypeScript + Vite.js Template
 > Make Phaser 3 games with TypeScript and modern frontend tooling.
 
